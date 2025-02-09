@@ -4,7 +4,6 @@ This custom integration for Home Assistant allows you to monitor the recording s
 ---
 
 ## Features
-
 - **Real-Time Monitoring**: Tracks the recording status of OBS Studio.
 - **Easy Setup**: Configure via the Home Assistant UI.
 - **Lightweight**: Uses the `obsws-python` library for efficient communication.
